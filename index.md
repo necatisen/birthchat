@@ -10,4 +10,4 @@ Meet face-verified real people, see your match score and chat safely.
 - [Terms of Use / Kullanım Koşulları](./terms)
 - [Delete your account / Hesabı silme](./delete-account)
 
-Contact / İletişim: **birthchat@gmail.com**
+Contact / İletişim: **birthchathelp@gmail.com**

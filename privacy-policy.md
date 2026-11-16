@@ -43,11 +43,11 @@ Your profile information, photos, online status and verification badge are visib
 
 
 ### 7. Retention and deletion
-We keep your data while your account is open. You can delete your account at any time in Settings > Delete Account; your profile, photos, messages and verification records are deleted. Removal from backups takes up to 30 days. If you cannot access the app, email birthchat@gmail.com.
+We keep your data while your account is open. You can delete your account at any time in Settings > Delete Account; your profile, photos, messages and verification records are deleted. Removal from backups takes up to 30 days. If you cannot access the app, email birthchathelp@gmail.com.
 
 
 ### 8. Your rights
-You have the right to access, correct and delete your data, to object to processing, to withdraw consent and to data portability. Contact birthchat@gmail.com.
+You have the right to access, correct and delete your data, to object to processing, to withdraw consent and to data portability. Contact birthchathelp@gmail.com.
 
 
 ### 9. Security
@@ -59,7 +59,7 @@ Birthchat is not intended for anyone under 18. Such accounts are deleted when id
 
 
 ### 11. Changes and contact
-We may update this policy and will announce important changes in the app. Contact: birthchat@gmail.com
+We may update this policy and will announce important changes in the app. Contact: birthchathelp@gmail.com
 
 ---
 
@@ -100,11 +100,11 @@ Profil bilgileriniz, fotoğraflarınız, çevrimiçi durumunuz ve doğrulama roz
 
 
 ### 7. Saklama ve silme
-Verileriniz hesabınız açık olduğu sürece saklanır. Hesabınızı istediğiniz zaman Ayarlar > Hesabı Sil bölümünden silebilirsiniz; profiliniz, fotoğraflarınız, mesajlarınız ve doğrulama kayıtlarınız silinir. Yedeklerden silinmesi en geç 30 gün sürer. Uygulamaya erişemiyorsanız birthchat@gmail.com adresine yazabilirsiniz.
+Verileriniz hesabınız açık olduğu sürece saklanır. Hesabınızı istediğiniz zaman Ayarlar > Hesabı Sil bölümünden silebilirsiniz; profiliniz, fotoğraflarınız, mesajlarınız ve doğrulama kayıtlarınız silinir. Yedeklerden silinmesi en geç 30 gün sürer. Uygulamaya erişemiyorsanız birthchathelp@gmail.com adresine yazabilirsiniz.
 
 
 ### 8. Haklarınız
-Verilerinize erişme, düzeltme, silme, işlemeye itiraz etme, rızanızı geri alma ve veri taşınabilirliği haklarınız vardır. Talepleriniz için birthchat@gmail.com.
+Verilerinize erişme, düzeltme, silme, işlemeye itiraz etme, rızanızı geri alma ve veri taşınabilirliği haklarınız vardır. Talepleriniz için birthchathelp@gmail.com.
 
 
 ### 9. Güvenlik
@@ -116,7 +116,7 @@ Birthchat 18 yaşından küçükler için değildir. Böyle bir hesap fark edild
 
 
 ### 11. Değişiklikler ve iletişim
-Bu politikayı güncelleyebiliriz; önemli değişiklikleri uygulama içinde duyururuz. İletişim: birthchat@gmail.com
+Bu politikayı güncelleyebiliriz; önemli değişiklikleri uygulama içinde duyururuz. İletişim: birthchathelp@gmail.com
 
 ---
 
@@ -157,11 +157,11 @@ Profilangaben, Fotos, Online-Status und Verifizierungsabzeichen sind für andere
 
 
 ### 7. Speicherung und Löschung
-Wir speichern deine Daten, solange dein Konto besteht. Du kannst dein Konto jederzeit unter Einstellungen > Konto löschen entfernen; Profil, Fotos, Nachrichten und Verifizierungsdaten werden gelöscht. Die Entfernung aus Backups dauert bis zu 30 Tage. Ohne App-Zugang: birthchat@gmail.com.
+Wir speichern deine Daten, solange dein Konto besteht. Du kannst dein Konto jederzeit unter Einstellungen > Konto löschen entfernen; Profil, Fotos, Nachrichten und Verifizierungsdaten werden gelöscht. Die Entfernung aus Backups dauert bis zu 30 Tage. Ohne App-Zugang: birthchathelp@gmail.com.
 
 
 ### 8. Deine Rechte
-Auskunft, Berichtigung, Löschung, Widerspruch, Widerruf der Einwilligung und Datenübertragbarkeit. Kontakt: birthchat@gmail.com. Du kannst dich außerdem bei einer Datenschutzaufsichtsbehörde beschweren.
+Auskunft, Berichtigung, Löschung, Widerspruch, Widerruf der Einwilligung und Datenübertragbarkeit. Kontakt: birthchathelp@gmail.com. Du kannst dich außerdem bei einer Datenschutzaufsichtsbehörde beschweren.
 
 
 ### 9. Sicherheit
@@ -173,7 +173,7 @@ Birthchat richtet sich nicht an Personen unter 18. Solche Konten werden gelösch
 
 
 ### 11. Änderungen und Kontakt
-Wir können diese Erklärung anpassen und kündigen wichtige Änderungen in der App an. Kontakt: birthchat@gmail.com
+Wir können diese Erklärung anpassen und kündigen wichtige Änderungen in der App an. Kontakt: birthchathelp@gmail.com
 
 ---
 
@@ -214,11 +214,11 @@ Vos informations de profil, photos, statut en ligne et badge de vérification so
 
 
 ### 7. Conservation et suppression
-Nous conservons vos données tant que votre compte existe. Vous pouvez supprimer votre compte à tout moment dans Paramètres > Supprimer le compte ; profil, photos, messages et données de vérification sont supprimés. La suppression des sauvegardes prend jusqu'à 30 jours. Sans accès à l'application : birthchat@gmail.com.
+Nous conservons vos données tant que votre compte existe. Vous pouvez supprimer votre compte à tout moment dans Paramètres > Supprimer le compte ; profil, photos, messages et données de vérification sont supprimés. La suppression des sauvegardes prend jusqu'à 30 jours. Sans accès à l'application : birthchathelp@gmail.com.
 
 
 ### 8. Vos droits
-Accès, rectification, effacement, opposition, retrait du consentement et portabilité. Contact : birthchat@gmail.com. Vous pouvez aussi saisir l'autorité de protection des données.
+Accès, rectification, effacement, opposition, retrait du consentement et portabilité. Contact : birthchathelp@gmail.com. Vous pouvez aussi saisir l'autorité de protection des données.
 
 
 ### 9. Sécurité
@@ -230,7 +230,7 @@ Birthchat n'est pas destinée aux moins de 18 ans. Ces comptes sont supprimés.
 
 
 ### 11. Modifications et contact
-Nous pouvons mettre à jour cette politique et annoncerons les changements importants dans l'application. Contact : birthchat@gmail.com
+Nous pouvons mettre à jour cette politique et annoncerons les changements importants dans l'application. Contact : birthchathelp@gmail.com
 
 ---
 
@@ -271,11 +271,11 @@ Tu información de perfil, fotos, estado en línea e insignia de verificación s
 
 
 ### 7. Conservación y eliminación
-Conservamos tus datos mientras tu cuenta exista. Puedes eliminarla cuando quieras en Ajustes > Eliminar cuenta; se borran tu perfil, fotos, mensajes y datos de verificación. La eliminación de las copias de seguridad tarda hasta 30 días. Si no puedes acceder a la app: birthchat@gmail.com.
+Conservamos tus datos mientras tu cuenta exista. Puedes eliminarla cuando quieras en Ajustes > Eliminar cuenta; se borran tu perfil, fotos, mensajes y datos de verificación. La eliminación de las copias de seguridad tarda hasta 30 días. Si no puedes acceder a la app: birthchathelp@gmail.com.
 
 
 ### 8. Tus derechos
-Acceso, rectificación, supresión, oposición, retirada del consentimiento y portabilidad. Contacto: birthchat@gmail.com. También puedes reclamar ante la autoridad de protección de datos.
+Acceso, rectificación, supresión, oposición, retirada del consentimiento y portabilidad. Contacto: birthchathelp@gmail.com. También puedes reclamar ante la autoridad de protección de datos.
 
 
 ### 9. Seguridad
@@ -287,7 +287,7 @@ Birthchat no está dirigida a menores de 18 años. Esas cuentas se eliminan.
 
 
 ### 11. Cambios y contacto
-Podemos actualizar esta política y anunciaremos los cambios importantes en la app. Contacto: birthchat@gmail.com
+Podemos actualizar esta política y anunciaremos los cambios importantes en la app. Contacto: birthchathelp@gmail.com
 
 ---
 
@@ -328,11 +328,11 @@ Podemos actualizar esta política y anunciaremos los cambios importantes en la a
 
 
 ### 7. Хранение и удаление
-Мы храним данные, пока существует ваш аккаунт. Удалить аккаунт можно в любой момент: Настройки > Удалить аккаунт; профиль, фото, сообщения и данные проверки удаляются. Удаление из резервных копий занимает до 30 дней. Если нет доступа к приложению: birthchat@gmail.com.
+Мы храним данные, пока существует ваш аккаунт. Удалить аккаунт можно в любой момент: Настройки > Удалить аккаунт; профиль, фото, сообщения и данные проверки удаляются. Удаление из резервных копий занимает до 30 дней. Если нет доступа к приложению: birthchathelp@gmail.com.
 
 
 ### 8. Ваши права
-Доступ, исправление, удаление, возражение против обработки, отзыв согласия и переносимость данных. Контакт: birthchat@gmail.com.
+Доступ, исправление, удаление, возражение против обработки, отзыв согласия и переносимость данных. Контакт: birthchathelp@gmail.com.
 
 
 ### 9. Безопасность
@@ -344,7 +344,7 @@ Birthchat не предназначен для лиц младше 18 лет. Т
 
 
 ### 11. Изменения и контакты
-Мы можем обновлять политику и сообщим о важных изменениях в приложении. Контакт: birthchat@gmail.com
+Мы можем обновлять политику и сообщим о важных изменениях в приложении. Контакт: birthchathelp@gmail.com
 
 ---
 
@@ -386,11 +386,11 @@ Birthchat не предназначен для лиц младше 18 лет. Т
 
 
 ### 7. الاحتفاظ والحذف
-نحتفظ ببياناتك ما دام حسابك قائمًا. يمكنك حذف حسابك في أي وقت من الإعدادات > حذف الحساب؛ فيُحذف ملفك وصورك ورسائلك وسجلات التوثيق. يستغرق الحذف من النسخ الاحتياطية حتى 30 يومًا. إن لم تتمكن من الوصول إلى التطبيق: birthchat@gmail.com.
+نحتفظ ببياناتك ما دام حسابك قائمًا. يمكنك حذف حسابك في أي وقت من الإعدادات > حذف الحساب؛ فيُحذف ملفك وصورك ورسائلك وسجلات التوثيق. يستغرق الحذف من النسخ الاحتياطية حتى 30 يومًا. إن لم تتمكن من الوصول إلى التطبيق: birthchathelp@gmail.com.
 
 
 ### 8. حقوقك
-الوصول والتصحيح والحذف والاعتراض وسحب الموافقة ونقل البيانات. للتواصل: birthchat@gmail.com.
+الوصول والتصحيح والحذف والاعتراض وسحب الموافقة ونقل البيانات. للتواصل: birthchathelp@gmail.com.
 
 
 ### 9. الأمان
@@ -402,6 +402,6 @@ Birthchat не предназначен для лиц младше 18 лет. Т
 
 
 ### 11. التغييرات والتواصل
-قد نحدّث هذه السياسة وسنعلن عن التغييرات المهمة داخل التطبيق. للتواصل: birthchat@gmail.com
+قد نحدّث هذه السياسة وسنعلن عن التغييرات المهمة داخل التطبيق. للتواصل: birthchathelp@gmail.com
 
 </div>

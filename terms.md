@@ -54,7 +54,7 @@ These terms are governed by the laws of the Republic of Türkiye; mandatory cons
 
 
 ### 11. Contact
-birthchat@gmail.com
+birthchathelp@gmail.com
 
 ---
 
@@ -106,7 +106,7 @@ Bu koşullar Türkiye Cumhuriyeti hukukuna tabidir; tüketici olarak ikamet etti
 
 
 ### 11. İletişim
-birthchat@gmail.com
+birthchathelp@gmail.com
 
 ---
 
@@ -158,7 +158,7 @@ Es gilt das Recht der Republik Türkei; zwingende Verbraucherschutzvorschriften 
 
 
 ### 11. Kontakt
-birthchat@gmail.com
+birthchathelp@gmail.com
 
 ---
 
@@ -210,7 +210,7 @@ Ces conditions sont régies par le droit de la République de Turquie, sans pré
 
 
 ### 11. Contact
-birthchat@gmail.com
+birthchathelp@gmail.com
 
 ---
 
@@ -262,7 +262,7 @@ Estos términos se rigen por las leyes de la República de Turquía, sin perjuic
 
 
 ### 11. Contacto
-birthchat@gmail.com
+birthchathelp@gmail.com
 
 ---
 
@@ -314,7 +314,7 @@ birthchat@gmail.com
 
 
 ### 11. Контакты
-birthchat@gmail.com
+birthchathelp@gmail.com
 
 ---
 
@@ -367,6 +367,6 @@ birthchat@gmail.com
 
 
 ### 11. التواصل
-birthchat@gmail.com
+birthchathelp@gmail.com
 
 </div>
