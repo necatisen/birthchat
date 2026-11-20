@@ -10,7 +10,7 @@ title: Birthchat – Terms of Use
 
 ## Birthchat Terms of Use
 
-Last updated: 16.11.2026
+Last updated: 20.11.2026
 
 
 ### 1. Acceptance
@@ -62,7 +62,7 @@ birthchathelp@gmail.com
 
 ## Birthchat Kullanım Koşulları
 
-Son güncelleme: 16.11.2026
+Son güncelleme: 20.11.2026
 
 
 ### 1. Kabul
@@ -114,7 +114,7 @@ birthchathelp@gmail.com
 
 ## Birthchat Nutzungsbedingungen
 
-Zuletzt aktualisiert: 16.11.2026
+Zuletzt aktualisiert: 20.11.2026
 
 
 ### 1. Zustimmung
@@ -166,7 +166,7 @@ birthchathelp@gmail.com
 
 ## Conditions d'utilisation de Birthchat
 
-Dernière mise à jour : 16.11.2026
+Dernière mise à jour : 20.11.2026
 
 
 ### 1. Acceptation
@@ -218,7 +218,7 @@ birthchathelp@gmail.com
 
 ## Términos de uso de Birthchat
 
-Última actualización: 16.11.2026
+Última actualización: 20.11.2026
 
 
 ### 1. Aceptación
@@ -270,7 +270,7 @@ birthchathelp@gmail.com
 
 ## Условия использования Birthchat
 
-Последнее обновление: 16.11.2026
+Последнее обновление: 20.11.2026
 
 
 ### 1. Согласие
@@ -323,7 +323,7 @@ birthchathelp@gmail.com
 
 ## شروط استخدام Birthchat
 
-آخر تحديث: 16.11.2026
+آخر تحديث: 20.11.2026
 
 
 ### 1. القبول

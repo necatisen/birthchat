@@ -10,7 +10,7 @@ title: Birthchat – Privacy Policy
 
 ## Birthchat Privacy Policy
 
-Last updated: 16.11.2026
+Last updated: 20.11.2026
 
 
 ### 1. Scope
@@ -22,7 +22,7 @@ This policy explains how your personal data is processed when you use the Birthc
 - Profile: information you enter such as name, username, date of birth, gender, height, weight, country/city, education, profession, habits, religion and relationship goal, plus your bio and photos.
 - Location: if you allow it, your approximate location to show people nearby.
 - Communication: messages, photos you share in chats, likes, matches, profile visits, blocks and reports.
-- Face verification: your selfie and the frames captured during the liveness steps. Face detection runs on your phone (Google ML Kit); the images are stored in a private area for verification review and are never shown on your profile.
+- Face verification (with your explicit consent): your selfie and the frames captured during the liveness steps. Face detection runs on your phone (Google ML Kit); on our server the selfie is processed in memory only at the moment of verification and is not stored. Only the result (the badge) is kept.
 - Device: push notification token, language preference and app error logs.
 
 
@@ -51,7 +51,7 @@ You have the right to access, correct and delete your data, to object to process
 
 
 ### 9. Security
-Connections are encrypted and database access is restricted by row-level security rules.
+Connections are encrypted, message texts are stored encrypted (AES-256) and database access is restricted by row-level security rules. In the event of a data breach we notify the competent authority and affected users within the legal time limits.
 
 
 ### 10. Children
@@ -67,7 +67,7 @@ We may update this policy and will announce important changes in the app. Contac
 
 ## Birthchat Gizlilik Politikası
 
-Son güncelleme: 16.11.2026
+Son güncelleme: 20.11.2026
 
 
 ### 1. Kapsam
@@ -79,7 +79,7 @@ Bu politika, Birthchat mobil uygulamasını kullandığınızda kişisel veriler
 - Profil: ad, kullanıcı adı, doğum tarihi, cinsiyet, boy, kilo, ülke/şehir, eğitim, meslek, alışkanlıklar, din ve ilişki hedefi gibi sizin girdiğiniz bilgiler, biyografi ve fotoğraflar.
 - Konum: izin verirseniz, yakındaki kişileri göstermek için yaklaşık konumunuz.
 - İletişim: mesajlar, mesajlarda paylaştığınız fotoğraflar, beğeniler, eşleşmeler, profil ziyaretleri, engelleme ve şikâyet kayıtları.
-- Yüz doğrulama: selfie ve canlılık adımlarında çekilen kareler. Yüz algılama telefonunuzda (Google ML Kit) yapılır; görüntüler doğrulama incelemesi için gizli bir alanda saklanır ve profilinizde gösterilmez.
+- Yüz doğrulama (açık rızanızla): selfie ve canlılık adımlarında çekilen kareler. Yüz algılama telefonunuzda (Google ML Kit) yapılır; selfie sunucuda yalnızca doğrulama anında bellekte işlenir ve saklanmaz. Saklanan tek bilgi doğrulama sonucudur (rozet).
 - Cihaz: bildirim gönderebilmek için bildirim anahtarı (push token), dil tercihi ve uygulama hata kayıtları.
 
 
@@ -108,7 +108,7 @@ Verilerinize erişme, düzeltme, silme, işlemeye itiraz etme, rızanızı geri 
 
 
 ### 9. Güvenlik
-Bağlantılar şifrelidir, veritabanı erişimi satır düzeyinde güvenlik kurallarıyla sınırlandırılmıştır.
+Bağlantılar şifrelidir; mesaj metinleri veritabanında AES-256 ile şifreli saklanır; veritabanı erişimi satır düzeyinde güvenlik kurallarıyla sınırlandırılmıştır. Olası bir veri ihlalinde Kişisel Verileri Koruma Kurulu’na ve etkilenen kullanıcılara yasal süre içinde bildirim yapılır.
 
 
 ### 10. Çocuklar
@@ -124,7 +124,7 @@ Bu politikayı güncelleyebiliriz; önemli değişiklikleri uygulama içinde duy
 
 ## Birthchat Datenschutzerklärung
 
-Zuletzt aktualisiert: 16.11.2026
+Zuletzt aktualisiert: 20.11.2026
 
 
 ### 1. Geltungsbereich
@@ -136,7 +136,7 @@ Diese Erklärung beschreibt, wie deine personenbezogenen Daten bei der Nutzung d
 - Profil: von dir eingegebene Angaben wie Name, Benutzername, Geburtsdatum, Geschlecht, Größe, Gewicht, Land/Stadt, Bildung, Beruf, Gewohnheiten, Religion und Beziehungsziel sowie Bio und Fotos.
 - Standort: mit deiner Erlaubnis dein ungefährer Standort, um Personen in der Nähe anzuzeigen.
 - Kommunikation: Nachrichten, in Chats geteilte Fotos, Likes, Matches, Profilbesuche, Blockierungen und Meldungen.
-- Gesichtsverifizierung: dein Selfie und die Bilder der Lebendigkeitsschritte. Die Gesichtserkennung läuft auf deinem Handy (Google ML Kit); die Bilder werden zur Prüfung in einem privaten Bereich gespeichert und nie im Profil gezeigt.
+- Gesichtsverifizierung (mit deiner ausdrücklichen Einwilligung): dein Selfie und die Bilder der Lebendigkeitsschritte. Die Gesichtserkennung läuft auf deinem Handy (Google ML Kit); auf unserem Server wird das Selfie nur im Moment der Prüfung im Arbeitsspeicher verarbeitet und nicht gespeichert. Gespeichert wird nur das Ergebnis (das Abzeichen).
 - Gerät: Push-Token, Spracheinstellung und Fehlerprotokolle der App.
 
 
@@ -165,7 +165,7 @@ Auskunft, Berichtigung, Löschung, Widerspruch, Widerruf der Einwilligung und Da
 
 
 ### 9. Sicherheit
-Verbindungen sind verschlüsselt, der Datenbankzugriff ist durch Sicherheitsregeln auf Zeilenebene beschränkt.
+Verbindungen sind verschlüsselt, Nachrichtentexte werden verschlüsselt (AES-256) gespeichert und der Datenbankzugriff ist durch Sicherheitsregeln auf Zeilenebene beschränkt. Bei einer Datenschutzverletzung benachrichtigen wir die zuständige Behörde und betroffene Nutzer fristgerecht.
 
 
 ### 10. Minderjährige
@@ -181,7 +181,7 @@ Wir können diese Erklärung anpassen und kündigen wichtige Änderungen in der 
 
 ## Politique de confidentialité de Birthchat
 
-Dernière mise à jour : 16.11.2026
+Dernière mise à jour : 20.11.2026
 
 
 ### 1. Champ d'application
@@ -193,7 +193,7 @@ Cette politique explique comment vos données personnelles sont traitées lorsqu
 - Profil : informations que vous saisissez (nom, nom d'utilisateur, date de naissance, genre, taille, poids, pays/ville, études, profession, habitudes, religion, objectif de relation), votre bio et vos photos.
 - Localisation : si vous l'autorisez, votre position approximative pour afficher les personnes proches.
 - Communications : messages, photos partagées, likes, matchs, visites de profil, blocages et signalements.
-- Vérification faciale : votre selfie et les images des étapes de détection de présence. La détection du visage se fait sur votre téléphone (Google ML Kit) ; les images sont conservées dans un espace privé pour l'examen et ne sont jamais affichées sur votre profil.
+- Vérification faciale (avec votre consentement explicite) : votre selfie et les images des étapes de détection de présence. La détection du visage se fait sur votre téléphone (Google ML Kit) ; sur notre serveur, le selfie est traité uniquement en mémoire au moment de la vérification et n'est pas conservé. Seul le résultat (le badge) est conservé.
 - Appareil : jeton de notification, langue et journaux d'erreurs de l'application.
 
 
@@ -222,7 +222,7 @@ Accès, rectification, effacement, opposition, retrait du consentement et portab
 
 
 ### 9. Sécurité
-Les connexions sont chiffrées et l'accès à la base de données est limité par des règles de sécurité au niveau des lignes.
+Les connexions sont chiffrées, les textes des messages sont stockés chiffrés (AES-256) et l'accès à la base de données est limité par des règles de sécurité au niveau des lignes. En cas de violation de données, nous informons l'autorité compétente et les utilisateurs concernés dans les délais légaux.
 
 
 ### 10. Mineurs
@@ -238,7 +238,7 @@ Nous pouvons mettre à jour cette politique et annoncerons les changements impor
 
 ## Política de privacidad de Birthchat
 
-Última actualización: 16.11.2026
+Última actualización: 20.11.2026
 
 
 ### 1. Alcance
@@ -250,7 +250,7 @@ Esta política explica cómo se tratan tus datos personales al usar la app Birth
 - Perfil: datos que introduces como nombre, usuario, fecha de nacimiento, género, altura, peso, país/ciudad, estudios, profesión, hábitos, religión y objetivo de relación, además de tu biografía y fotos.
 - Ubicación: si lo permites, tu ubicación aproximada para mostrar personas cercanas.
 - Comunicaciones: mensajes, fotos compartidas, me gusta, matches, visitas al perfil, bloqueos y denuncias.
-- Verificación facial: tu selfie y las imágenes de los pasos de prueba de vida. La detección facial se hace en tu móvil (Google ML Kit); las imágenes se guardan en un área privada para revisión y nunca se muestran en tu perfil.
+- Verificación facial (con tu consentimiento explícito): tu selfie y las imágenes de los pasos de prueba de vida. La detección facial se hace en tu móvil (Google ML Kit); en nuestro servidor el selfie solo se procesa en memoria en el momento de la verificación y no se guarda. Solo se conserva el resultado (la insignia).
 - Dispositivo: token de notificaciones, idioma y registros de errores de la app.
 
 
@@ -279,7 +279,7 @@ Acceso, rectificación, supresión, oposición, retirada del consentimiento y po
 
 
 ### 9. Seguridad
-Las conexiones están cifradas y el acceso a la base de datos está limitado por reglas de seguridad a nivel de fila.
+Las conexiones están cifradas, los textos de los mensajes se guardan cifrados (AES-256) y el acceso a la base de datos está limitado por reglas de seguridad a nivel de fila. Ante una brecha de datos, informamos a la autoridad competente y a los usuarios afectados en los plazos legales.
 
 
 ### 10. Menores
@@ -295,7 +295,7 @@ Podemos actualizar esta política y anunciaremos los cambios importantes en la a
 
 ## Политика конфиденциальности Birthchat
 
-Последнее обновление: 16.11.2026
+Последнее обновление: 20.11.2026
 
 
 ### 1. Область применения
@@ -307,7 +307,7 @@ Podemos actualizar esta política y anunciaremos los cambios importantes en la a
 - Профиль: введённые вами сведения — имя, имя пользователя, дата рождения, пол, рост, вес, страна/город, образование, профессия, привычки, религия и цель знакомства, а также описание и фотографии.
 - Местоположение: с вашего разрешения — приблизительное местоположение, чтобы показывать людей рядом.
 - Общение: сообщения, фото в чатах, лайки, совпадения, просмотры профиля, блокировки и жалобы.
-- Проверка лица: селфи и кадры шагов проверки живости. Распознавание лица выполняется на телефоне (Google ML Kit); изображения хранятся в закрытом хранилище для проверки и никогда не показываются в профиле.
+- Проверка лица (с вашего явного согласия): селфи и кадры шагов проверки живости. Распознавание лица выполняется на телефоне (Google ML Kit); на сервере селфи обрабатывается только в памяти в момент проверки и не сохраняется. Сохраняется только результат (значок).
 - Устройство: токен push-уведомлений, язык и журналы ошибок приложения.
 
 
@@ -336,7 +336,7 @@ Podemos actualizar esta política y anunciaremos los cambios importantes en la a
 
 
 ### 9. Безопасность
-Соединения шифруются, доступ к базе данных ограничен правилами безопасности на уровне строк.
+Соединения шифруются, тексты сообщений хранятся в зашифрованном виде (AES-256), доступ к базе данных ограничен правилами безопасности на уровне строк. При утечке данных мы уведомляем компетентный орган и затронутых пользователей в установленные законом сроки.
 
 
 ### 10. Несовершеннолетние
@@ -353,7 +353,7 @@ Birthchat не предназначен для лиц младше 18 лет. Т
 
 ## سياسة الخصوصية لتطبيق Birthchat
 
-آخر تحديث: 16.11.2026
+آخر تحديث: 20.11.2026
 
 
 ### 1. النطاق
@@ -365,7 +365,7 @@ Birthchat не предназначен для лиц младше 18 лет. Т
 - الملف الشخصي: ما تدخله من اسم واسم مستخدم وتاريخ ميلاد وجنس وطول ووزن ودولة/مدينة وتعليم ومهنة وعادات ودين وهدف العلاقة، إضافة إلى النبذة والصور.
 - الموقع: بإذنك، موقعك التقريبي لعرض الأشخاص القريبين.
 - التواصل: الرسائل والصور المرسلة في المحادثات والإعجابات والتطابقات وزيارات الملف والحظر والبلاغات.
-- توثيق الوجه: صورتك الذاتية واللقطات أثناء خطوات اختبار الحيوية. يتم اكتشاف الوجه على هاتفك (Google ML Kit)، وتُحفظ الصور في مساحة خاصة للمراجعة ولا تظهر أبدًا في ملفك.
+- توثيق الوجه (بموافقتك الصريحة): صورتك الذاتية واللقطات أثناء خطوات اختبار الحيوية. يتم اكتشاف الوجه على هاتفك (Google ML Kit)، وعلى خادمنا تُعالَج الصورة في الذاكرة فقط لحظة التحقق ولا تُحفظ. يُحفظ فقط الناتج (الشارة).
 - الجهاز: رمز الإشعارات واللغة وسجلات أخطاء التطبيق.
 
 
@@ -394,7 +394,7 @@ Birthchat не предназначен для лиц младше 18 лет. Т
 
 
 ### 9. الأمان
-الاتصالات مشفّرة، والوصول إلى قاعدة البيانات مقيّد بقواعد أمان على مستوى الصفوف.
+الاتصالات مشفّرة، ونصوص الرسائل مخزّنة بشكل مشفّر (AES-256)، والوصول إلى قاعدة البيانات مقيّد بقواعد أمان على مستوى الصفوف. في حال حدوث خرق للبيانات نُبلغ الجهة المختصة والمستخدمين المتأثرين ضمن المهل القانونية.
 
 
 ### 10. القاصرون
