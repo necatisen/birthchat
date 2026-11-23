@@ -10,7 +10,7 @@ title: Birthchat – Privacy Policy
 
 ## Birthchat Privacy Policy
 
-Last updated: 20.11.2026
+Last updated: 23.11.2026
 
 
 ### 1. Scope
@@ -67,7 +67,7 @@ We may update this policy and will announce important changes in the app. Contac
 
 ## Birthchat Gizlilik Politikası
 
-Son güncelleme: 20.11.2026
+Son güncelleme: 23.11.2026
 
 
 ### 1. Kapsam
@@ -124,7 +124,7 @@ Bu politikayı güncelleyebiliriz; önemli değişiklikleri uygulama içinde duy
 
 ## Birthchat Datenschutzerklärung
 
-Zuletzt aktualisiert: 20.11.2026
+Zuletzt aktualisiert: 23.11.2026
 
 
 ### 1. Geltungsbereich
@@ -181,7 +181,7 @@ Wir können diese Erklärung anpassen und kündigen wichtige Änderungen in der 
 
 ## Politique de confidentialité de Birthchat
 
-Dernière mise à jour : 20.11.2026
+Dernière mise à jour : 23.11.2026
 
 
 ### 1. Champ d'application
@@ -238,7 +238,7 @@ Nous pouvons mettre à jour cette politique et annoncerons les changements impor
 
 ## Política de privacidad de Birthchat
 
-Última actualización: 20.11.2026
+Última actualización: 23.11.2026
 
 
 ### 1. Alcance
@@ -295,7 +295,7 @@ Podemos actualizar esta política y anunciaremos los cambios importantes en la a
 
 ## Политика конфиденциальности Birthchat
 
-Последнее обновление: 20.11.2026
+Последнее обновление: 23.11.2026
 
 
 ### 1. Область применения
@@ -353,7 +353,7 @@ Birthchat не предназначен для лиц младше 18 лет. Т
 
 ## سياسة الخصوصية لتطبيق Birthchat
 
-آخر تحديث: 20.11.2026
+آخر تحديث: 23.11.2026
 
 
 ### 1. النطاق

@@ -10,7 +10,7 @@ title: Birthchat – Terms of Use
 
 ## Birthchat Terms of Use
 
-Last updated: 20.11.2026
+Last updated: 23.11.2026
 
 
 ### 1. Acceptance
@@ -26,7 +26,7 @@ Strictly prohibited: harassment, threats, hate speech; nudity or sexual content;
 
 
 ### 4. Reporting and blocking
-You can report and block users from their profile or from the chat. Reports are reviewed within 24 hours; violating content is removed and the account is suspended or terminated.
+You can report and block users from their profile or from the chat. Reports are reviewed within 24 hours; violating content is removed and the account is suspended or terminated. Reports are reviewed by Birthchat moderators and admins. A violation can lead to a warning, a temporary suspension (1, 7 or 30 days) or a permanent ban; the decision and its reason are sent to your registered e-mail address. Evidence for the decision (e.g. screenshots) and the action log are stored so that only the authorised team can see them. When you report a message in a chat, only that message is shared with moderators. You can appeal at birthchathelp@gmail.com.
 
 
 ### 5. Your content
@@ -62,7 +62,7 @@ birthchathelp@gmail.com
 
 ## Birthchat Kullanım Koşulları
 
-Son güncelleme: 20.11.2026
+Son güncelleme: 23.11.2026
 
 
 ### 1. Kabul
@@ -78,7 +78,7 @@ En az 18 yaşında olmalısınız. Hesap bilgilerinizin doğru olması ve tek bi
 
 
 ### 4. Şikâyet ve engelleme
-Rahatsız edici kullanıcıları profillerinden veya sohbetten şikâyet edebilir ve engelleyebilirsiniz. Şikâyetler 24 saat içinde incelenir; kurallara aykırı içerik kaldırılır ve ilgili hesap askıya alınır veya kapatılır.
+Rahatsız edici kullanıcıları profillerinden veya sohbetten şikâyet edebilir ve engelleyebilirsiniz. Şikâyetler 24 saat içinde incelenir; kurallara aykırı içerik kaldırılır ve ilgili hesap askıya alınır veya kapatılır. Şikâyetleri Birthchat moderatörleri ve yöneticileri inceler. İhlal durumunda hesaba uyarı verilebilir, hesap geçici olarak askıya alınabilir (1, 7 veya 30 gün) ya da kalıcı olarak engellenebilir; karar ve nedeni kayıtlı e-posta adresinize bildirilir. Kararın dayanağı olan kanıtlar (ör. ekran görüntüleri) ve işlem kaydı yalnızca yetkili ekip tarafından görülebilir şekilde saklanır. Sohbetten bir mesajı şikâyet ettiğinizde yalnızca o mesaj moderatörlere iletilir. Karara birthchathelp@gmail.com adresinden itiraz edebilirsiniz.
 
 
 ### 5. İçeriğiniz
@@ -114,7 +114,7 @@ birthchathelp@gmail.com
 
 ## Birthchat Nutzungsbedingungen
 
-Zuletzt aktualisiert: 20.11.2026
+Zuletzt aktualisiert: 23.11.2026
 
 
 ### 1. Zustimmung
@@ -130,7 +130,7 @@ Streng verboten: Belästigung, Drohungen, Hassrede; Nacktheit oder sexuelle Inha
 
 
 ### 4. Melden und Blockieren
-Du kannst Nutzer im Profil oder im Chat melden und blockieren. Meldungen werden innerhalb von 24 Stunden geprüft; Verstöße werden entfernt und das Konto gesperrt oder gelöscht.
+Du kannst Nutzer im Profil oder im Chat melden und blockieren. Meldungen werden innerhalb von 24 Stunden geprüft; Verstöße werden entfernt und das Konto gesperrt oder gelöscht. Meldungen werden von Birthchat-Moderatoren und -Admins geprüft. Ein Verstoß kann zu einer Verwarnung, einer vorübergehenden Sperre (1, 7 oder 30 Tage) oder einem dauerhaften Ausschluss führen; Entscheidung und Grund werden an deine E-Mail-Adresse gesendet. Beweise (z. B. Screenshots) und das Aktionsprotokoll sind nur für das berechtigte Team sichtbar. Meldest du eine Chatnachricht, wird nur diese Nachricht an Moderatoren weitergegeben. Widerspruch: birthchathelp@gmail.com.
 
 
 ### 5. Deine Inhalte
@@ -166,7 +166,7 @@ birthchathelp@gmail.com
 
 ## Conditions d'utilisation de Birthchat
 
-Dernière mise à jour : 20.11.2026
+Dernière mise à jour : 23.11.2026
 
 
 ### 1. Acceptation
@@ -182,7 +182,7 @@ Strictement interdits : harcèlement, menaces, discours haineux ; nudité ou con
 
 
 ### 4. Signalement et blocage
-Vous pouvez signaler et bloquer un utilisateur depuis son profil ou la discussion. Les signalements sont examinés sous 24 heures ; le contenu fautif est supprimé et le compte suspendu ou fermé.
+Vous pouvez signaler et bloquer un utilisateur depuis son profil ou la discussion. Les signalements sont examinés sous 24 heures ; le contenu fautif est supprimé et le compte suspendu ou fermé. Les signalements sont examinés par les modérateurs et administrateurs de Birthchat. Une infraction peut entraîner un avertissement, une suspension temporaire (1, 7 ou 30 jours) ou un bannissement définitif ; la décision et son motif sont envoyés à votre adresse e-mail. Les preuves (ex. captures d’écran) et le journal des actions ne sont visibles que par l’équipe autorisée. Si vous signalez un message, seul ce message est transmis aux modérateurs. Recours : birthchathelp@gmail.com.
 
 
 ### 5. Votre contenu
@@ -218,7 +218,7 @@ birthchathelp@gmail.com
 
 ## Términos de uso de Birthchat
 
-Última actualización: 20.11.2026
+Última actualización: 23.11.2026
 
 
 ### 1. Aceptación
@@ -234,7 +234,7 @@ Está terminantemente prohibido: acoso, amenazas, discurso de odio; desnudos o c
 
 
 ### 4. Denuncias y bloqueos
-Puedes denunciar y bloquear usuarios desde su perfil o desde el chat. Las denuncias se revisan en 24 horas; el contenido infractor se elimina y la cuenta se suspende o cierra.
+Puedes denunciar y bloquear usuarios desde su perfil o desde el chat. Las denuncias se revisan en 24 horas; el contenido infractor se elimina y la cuenta se suspende o cierra. Las denuncias las revisan moderadores y administradores de Birthchat. Una infracción puede conllevar una advertencia, una suspensión temporal (1, 7 o 30 días) o una expulsión permanente; la decisión y su motivo se envían a tu correo registrado. Las pruebas (p. ej. capturas) y el registro de acciones solo los ve el equipo autorizado. Si denuncias un mensaje del chat, solo ese mensaje se comparte con los moderadores. Apelaciones: birthchathelp@gmail.com.
 
 
 ### 5. Tu contenido
@@ -270,7 +270,7 @@ birthchathelp@gmail.com
 
 ## Условия использования Birthchat
 
-Последнее обновление: 20.11.2026
+Последнее обновление: 23.11.2026
 
 
 ### 1. Согласие
@@ -286,7 +286,7 @@ birthchathelp@gmail.com
 
 
 ### 4. Жалобы и блокировка
-Пожаловаться на пользователя и заблокировать его можно в профиле или чате. Жалобы рассматриваются в течение 24 часов; нарушающий контент удаляется, аккаунт блокируется или закрывается.
+Пожаловаться на пользователя и заблокировать его можно в профиле или чате. Жалобы рассматриваются в течение 24 часов; нарушающий контент удаляется, аккаунт блокируется или закрывается. Жалобы рассматривают модераторы и администраторы Birthchat. Нарушение может повлечь предупреждение, временную блокировку (1, 7 или 30 дней) или постоянный бан; решение и причина отправляются на ваш e-mail. Доказательства (например, скриншоты) и журнал действий доступны только уполномоченной команде. Если вы жалуетесь на сообщение в чате, модераторам передаётся только это сообщение. Обжалование: birthchathelp@gmail.com.
 
 
 ### 5. Ваш контент
@@ -323,7 +323,7 @@ birthchathelp@gmail.com
 
 ## شروط استخدام Birthchat
 
-آخر تحديث: 20.11.2026
+آخر تحديث: 23.11.2026
 
 
 ### 1. القبول
@@ -339,7 +339,7 @@ birthchathelp@gmail.com
 
 
 ### 4. الإبلاغ والحظر
-يمكنك الإبلاغ عن المستخدمين وحظرهم من ملفهم أو من المحادثة. تُراجع البلاغات خلال 24 ساعة، ويُحذف المحتوى المخالف ويُعلّق الحساب أو يُغلق.
+يمكنك الإبلاغ عن المستخدمين وحظرهم من ملفهم أو من المحادثة. تُراجع البلاغات خلال 24 ساعة، ويُحذف المحتوى المخالف ويُعلّق الحساب أو يُغلق. يراجع مشرفو Birthchat ومسؤولوه البلاغات. قد تؤدي المخالفة إلى تحذير أو تعليق مؤقت (1 أو 7 أو 30 يومًا) أو حظر دائم؛ ويُرسل القرار وسببه إلى بريدك الإلكتروني المسجل. تُحفظ الأدلة (مثل لقطات الشاشة) وسجل الإجراءات بحيث لا يراها إلا الفريق المخوّل. عند الإبلاغ عن رسالة في المحادثة، تُرسل تلك الرسالة فقط إلى المشرفين. للاعتراض: birthchathelp@gmail.com.
 
 
 ### 5. محتواك
